@@ -27,13 +27,18 @@
   <h5>Visualization:</h5>
   
   Box and whiskers plot
-  ![orthobox](https://user-images.githubusercontent.com/68176147/87750715-d61a3200-c819-11ea-956e-fd4b2bce5218.png)
+  <img src="https://user-images.githubusercontent.com/68176147/87750715-d61a3200-c819-11ea-956e-fd4b2bce5218.png" width="400"/>
   
   Count plot
   ![orthocountplot](https://user-images.githubusercontent.com/68176147/87751116-ebdc2700-c81a-11ea-8433-f9356622ea2f.png)
   
   Heatmap
-  pairplot
+  <img src="https://user-images.githubusercontent.com/68176147/87751355-70c74080-c81b-11ea-943d-de3832a0b747.png" width="400"/>
+  
+  Pairplot
+  
+
+  
   
   
 
