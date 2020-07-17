@@ -15,7 +15,7 @@
  Here are some assignments which I have done during online internship with DLithe(www.dlithe.com).
  
  <h2>Biomechanical features of orthopedic patients<h2>
- <h5>Data collection</h5>
+ <h4>Data collection</h4>
   <h6> Dataset was collected from kaggle.com.Each patient is represented in the data set by six biomechanical attributes derived from the shape and orientation of the pelvis and         lumbar   spine (each one is a column): pelvic incidence,pelvic tilt,lumbar lordosis angle,sacral slope,pelvic radius,grade of spondylolisthesis.</h6>
 
   Used two algorithms i.e logistic regression(refer file ortho1) and k nearest neighbor(refer file ortho2).
@@ -24,7 +24,7 @@
   Logistic regression:90.03%
   K nearest neighbor:91.02%
   
-  <h5>Visualization:</h5>
+  <h4>Visualization:</h4>
   
   Box and whiskers plot
   <img src="https://user-images.githubusercontent.com/68176147/87750715-d61a3200-c819-11ea-956e-fd4b2bce5218.png" width="400"/>
@@ -36,6 +36,8 @@
   <img src="https://user-images.githubusercontent.com/68176147/87751355-70c74080-c81b-11ea-943d-de3832a0b747.png" width="400"/>
   
   Pairplot
+  <img src="https://user-images.githubusercontent.com/68176147/87752146-4d9d9080-c81d-11ea-9b1e-f9757c42e006.png" width="400"/>
+  
   
 
   
