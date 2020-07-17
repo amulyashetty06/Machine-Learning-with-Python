@@ -12,9 +12,9 @@
 <h5>7.Training</h5>
 <h5>8.Testing</h5> 
  
- Here are some assignments which I have done during online internship with DLithe(www.dlithe.com).
+<h6> These are my 3 assignments which I have done during online internship with DLithe(www.dlithe.com).</h6>
  
- <h2>Biomechanical features of orthopedic patients<h2>
+ <h2>1.Biomechanical features of orthopedic patients<h2>
  <h4>Data collection</h4>
   <h6> Dataset was collected from kaggle.com.Each patient is represented in the data set by six biomechanical attributes derived from the shape and orientation of the pelvis and         lumbar   spine (each one is a column): pelvic incidence,pelvic tilt,lumbar lordosis angle,sacral slope,pelvic radius,grade of spondylolisthesis.</h6>
 
@@ -40,7 +40,7 @@
   
   (refer the image files above)
   
-  <h2>India Housing Prices</h2>
+  <h2>2.India Housing Prices</h2>
   <h4>Data collection</h4>
   <h6> Dataset was collected from kaggle.com.This data consists of prices of various homes in india.It had various features such as livingarea, bedroom, lotsize, age and fireplace.</h6>
   
@@ -50,6 +50,15 @@
    Heatmap
    <img src="https://user-images.githubusercontent.com/68176147/87755682-116e2e00-c825-11ea-89e4-fd8a2d1c6598.png" width="400"/>
    (refer image file househeatmap)
+   
+   <h2>3.Indian liver patients record</h2>
+   <h4>Data collection</h4>
+   <h6>This data set contains 416 liver patient records and 167 non liver patient records collected from North East of Andhra Pradesh, India. The "Dataset" column is a class label used to divide groups into liver patient (liver disease) or not (no disease). This data set contains 441 male patient records and 142 female patient records.Collected from kaggle.com.Age of the patient,Gender of the patient,Total Bilirubin,Direct Bilirubin,Alkaline Phosphotase,Alamine Aminotransferase,Aspartate Aminotransferase,Total Protiens,Albumin,Albumin and Globulin Ratio,Dataset: field used to split the data into two sets (patient with liver disease, or no disease)</h6>
+   
+   <h4>Visualization</h4>
+   
+   
+    
   
    
   
