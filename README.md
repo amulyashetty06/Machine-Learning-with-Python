@@ -38,6 +38,19 @@
   Pairplot
   <img src="https://user-images.githubusercontent.com/68176147/87752146-4d9d9080-c81d-11ea-9b1e-f9757c42e006.png" width="400"/>
   
+  (refer the image files above)
+  
+  <h2>India Housing Prices</h2>
+  <h4>Data collection</h4>
+  <h6> Dataset was collected from kaggle.com.This data consists of prices of various homes in india.</h6>
+  
+  Algorithm used-Linear Regression(refer)
+  
+  <h4>Visualization</h4>
+  
+  Heatmap
+  
+  
   
 
   
