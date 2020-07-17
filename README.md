@@ -12,7 +12,7 @@
 <h5>7.Training</h5>
 <h5>8.Testing</h5> 
  
-<h6> These are my 3 assignments which I have done during online internship with DLithe(www.dlithe.com).</h6>
+<h5> These are my 3 assignments which I have done during online internship with DLithe(www.dlithe.com).</h5>
  
  <h2>1.Biomechanical features of orthopedic patients<h2>
  <h4>Data collection</h4>
