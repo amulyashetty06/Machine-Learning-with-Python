@@ -47,8 +47,11 @@
   Algorithm used-Linear Regression(refer)
   
   <h4>Visualization</h4>
+   Heatmap
+   <img src="" width="400"/>
   
-  Heatmap
+   
+  
   
   
   
