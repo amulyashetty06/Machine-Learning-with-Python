@@ -1,7 +1,7 @@
 # Machine-Learning-with-Python
  It is a subset of artificial intelligence, which focuses on using statistical techniques to build intelligent computer systems in order to learn from databases available to it. 
  
- <h2>Here are some steps we undergo while dveloping a machine learning model:</h2>
+ <h2>Here are some steps we undergo while developing a machine learning model:</h2>
  
 <h5>1.Data collection</h5>
 <h5>2.Data interpretation</h5>
@@ -27,4 +27,8 @@
   <h5>Visualization:</h5>
   
   Box and whiskers plot
+  ![orthobox](https://user-images.githubusercontent.com/68176147/87750715-d61a3200-c819-11ea-956e-fd4b2bce5218.png)
+  
+  
+
   
