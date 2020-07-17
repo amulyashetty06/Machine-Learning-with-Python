@@ -29,6 +29,12 @@
   Box and whiskers plot
   ![orthobox](https://user-images.githubusercontent.com/68176147/87750715-d61a3200-c819-11ea-956e-fd4b2bce5218.png)
   
+  Count plot
+  ![orthocountplot](https://user-images.githubusercontent.com/68176147/87751116-ebdc2700-c81a-11ea-8433-f9356622ea2f.png)
+  
+  Heatmap
+  pairplot
+  
   
 
   
