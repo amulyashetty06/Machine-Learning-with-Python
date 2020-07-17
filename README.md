@@ -23,3 +23,8 @@
   ACCURACY:
   Logistic regression:90.03%
   K nearest neighbor:91.02%
+  
+  <h5>Visualization:</h5>
+  
+  Box and whiskers plot
+  
